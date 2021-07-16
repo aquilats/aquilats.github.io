@@ -1,0 +1,14 @@
+.jumbotron .img-responsive {
+  margin: 0 auto;
+  max-width: 300px;
+}
+#header-jumbotron {
+  color: #BBB;
+  background-image: url('../images/blue.jpg');
+  background-attachment: fixed;
+}
+.footer li {
+  float: left;
+  margin-right: 1.5em;
+  margin-bottom: 1.5em;
+}
